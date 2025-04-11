@@ -2,7 +2,7 @@
 
 A simple and passive Python script to monitor your local network. It logs your public IP and the devices discovered through the ARP table into a timestamped log file. Ideal for cybersecurity labs and home networks.
 
-![Network Scanner Illustration](scanner.jpg)
+![Network Scanner Illustration](scanner.png)
 
 ## 🔍 Features
 
