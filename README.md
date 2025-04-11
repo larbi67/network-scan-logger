@@ -34,6 +34,7 @@ Make sure to run your terminal as Administrator.
 Use Windows Task Scheduler to run the script hourly or daily for continuous monitoring.
 
 ## 📄 Sample Output
+
 [2025-04-11 18:35:00] Network Scan
 Public IP: 102.145.211.34
 Local ARP Table:
@@ -47,9 +48,8 @@ Local ARP Table:
  - IP: 192.168.1.21    MAC: 00-0a-b7-cc-dd-02    Hostname: hmi-panel.local
  - IP: 192.168.1.50    MAC: ac-de-48-12-34-56    Hostname: macbook-pro.local
  - IP: 192.168.1.254   MAC: 00-11-22-33-44-55    Hostname: home-router.local
-------------------------------------------------------------
 
 ## 🔖 MIT License
 
-MIT License © 2025 Larbi Ouiyzme [MIT License](https://opensource.org/licenses/MIT), which is open, permissive, and widely accepted.
+MIT License [MIT License](https://opensource.org/licenses/MIT), which is open, permissive, and widely accepted.
 © 2025 Larbi Ouiyzme
